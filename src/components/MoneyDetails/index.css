@@ -1,0 +1,34 @@
+li {
+  border-radius: 10px;
+  width: 28%;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.classValue1 {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.classValue2 {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.classValue3 {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
+img {
+  height: 50px;
+  width: 50px;
+}
+.head {
+  font-size: 10px;
+  color: #7e858e;
+  margin-bottom: 5px;
+}
+.para {
+  font-size: 20px;
+  color: #7e858e;
+  font-weight: 500;
+}
